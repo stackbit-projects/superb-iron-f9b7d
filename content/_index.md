@@ -1,5 +1,5 @@
 ---
-title: Vidhya
+title: Vidhyakhsram
 ---
 <!--: .wrap .size-70 ..aligncenter bgimage=images/pencil.jpg -->
 
