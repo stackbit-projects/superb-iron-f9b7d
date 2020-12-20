@@ -4,7 +4,7 @@ title: Vidhyakhsram
 <!--: .wrap .size-70 ..aligncenter bgimage=images/pencil.jpg -->
 
 
-## **Hugo-Webslides**
+## **Vidhyakshram**
 
 <!--: .text-intro -->Use markdown to write contents and render with [**WebSlides**](https://webslides.tv) to HTML.
 
